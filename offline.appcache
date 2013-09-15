@@ -1,0 +1,15 @@
+CACHE MANIFEST
+
+# Version 2013-09-15
+
+favicon.ico
+style.css
+script.js
+
+uglify/lib/utils.js
+uglify/lib/ast.js
+uglify/lib/parse.js
+uglify/lib/transform.js
+uglify/lib/scope.js
+uglify/lib/output.js
+uglify/lib/compress.js
